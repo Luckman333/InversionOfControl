@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Thomas Lagemann',
 
   // open graph metadata (optional)
-  description: 'Home of the Darmstadt based metal formation Inversion of control',
+  description: 'Home of the Darmstadt based metal formation Inversion of Control',
 
   // social usernames (optional)
-  instagram: 'inversionofcontrolband',
+  //instagram: 'inversionofcontrolband',
   github: 'Luckman333',
-  facebook: 'InversionOfControlBand',
+  //facebook: 'InversionOfControlBand',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   youtube: '@inversionofcontrol9925', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
