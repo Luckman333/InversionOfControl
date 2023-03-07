@@ -3,7 +3,7 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   rootNotionPageId: 'Inversion-Of-Control-ea937a6991d94d5db3dd78cb1f8819af',
-https://universal-jackrabbit-a4f.notion.site/Inversion-Of-Control-ea937a6991d94d5db3dd78cb1f8819af
+
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
