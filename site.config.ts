@@ -2,27 +2,28 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Inversion-Of-Control-ea937a6991d94d5db3dd78cb1f8819af',
-
+  rootNotionPageId: 'Das-Buchhaltungspaket-e9d01377d1b24b3d9731559eb1424a10',
+  
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Inversion Of Control - Metal',
-  domain: 'www.inversionofcontrol.de',
-  author: 'Thomas Lagemann',
+  name: 'Lebensentdecker - Das Buchhaltungspaket',
+  domain: 'www.lebensentdecker.de',
+  author: 'mandy Rohm',
 
   // open graph metadata (optional)
-  description: 'Home of the Darmstadt based metal formation Inversion of Control',
+  description: 'Buchhaltung: Lauft!',
 
   // social usernames (optional)
-  //instagram: 'inversionofcontrolband',
-  github: 'Luckman333',
+  instagram: '_lebensentdecker_',
+  linkedin:'mandy-rohm',
+  //github: 'Luckman333',
   //facebook: 'InversionOfControlBand',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: '@inversionofcontrol9925', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  //youtube: '@inversionofcontrol9925', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
